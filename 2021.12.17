@@ -1,0 +1,5 @@
+Requirement already satisfied: pafy in c:\users\heat\anaconda3\envs\contour\lib\site-packages (0.5.5)
+Collecting youtube_dl
+  Using cached youtube_dl-2021.12.17-py2.py3-none-any.whl (1.9 MB)
+Installing collected packages: youtube_dl
+Successfully installed youtube_dl-2021.12.17
